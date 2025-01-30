@@ -1,0 +1,79 @@
+{
+    "technical": {
+        "avg_metrics": {
+            "word_count": 105.4,
+            "sentiment": 0.15991954173772352,
+            "complexity": 18.687857142857144
+        },
+        "interaction_types": {
+            "other": 5,
+            "creation": 4,
+            "teaching": 3,
+            "guidance": 2,
+            "analysis": 1
+        }
+    },
+    "other": {
+        "avg_metrics": {
+            "word_count": 81.67333333333333,
+            "sentiment": 0.15230709184994898,
+            "complexity": 17.11773826173826
+        },
+        "interaction_types": {
+            "other": 65,
+            "creation": 36,
+            "guidance": 32,
+            "teaching": 12,
+            "analysis": 5
+        }
+    },
+    "educational": {
+        "avg_metrics": {
+            "word_count": 74.3125,
+            "sentiment": 0.1336709731240981,
+            "complexity": 16.887053571428574
+        },
+        "interaction_types": {
+            "guidance": 9,
+            "teaching": 4,
+            "other": 3
+        }
+    },
+    "creative": {
+        "avg_metrics": {
+            "word_count": 70.27272727272727,
+            "sentiment": 0.222345291760581,
+            "complexity": 22.272727272727273
+        },
+        "interaction_types": {
+            "creation": 6,
+            "guidance": 2,
+            "other": 2,
+            "teaching": 1
+        }
+    },
+    "healthcare": {
+        "avg_metrics": {
+            "word_count": 78.0,
+            "sentiment": 0.09096732632446917,
+            "complexity": 20.066666666666666
+        },
+        "interaction_types": {
+            "guidance": 2,
+            "creation": 2,
+            "other": 2
+        }
+    },
+    "professional": {
+        "avg_metrics": {
+            "word_count": 80.63636363636364,
+            "sentiment": 0.1788470135528959,
+            "complexity": 21.01919191919192
+        },
+        "interaction_types": {
+            "creation": 5,
+            "guidance": 4,
+            "other": 2
+        }
+    }
+}

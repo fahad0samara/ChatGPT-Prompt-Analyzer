@@ -1,0 +1,23 @@
+ChatGPT Prompts Analysis Summary
+===============================
+
+Total number of prompts: 209
+
+Role Categories Distribution:
+- other: 150
+- educational: 16
+- technical: 15
+- creative: 11
+- professional: 11
+- healthcare: 6
+
+Interaction Types Distribution:
+- other: 79
+- creation: 53
+- guidance: 51
+- teaching: 20
+- analysis: 6
+
+Average prompt length (words): 82.05
+Average sentiment score: 0.15
+Average complexity score: 17.77

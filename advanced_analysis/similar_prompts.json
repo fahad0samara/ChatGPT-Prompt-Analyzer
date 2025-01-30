@@ -1,0 +1,102 @@
+[
+    {
+        "prompt1": "Legal Advisor",
+        "prompt2": "Emergency Response Professional",
+        "similarity": 1.0000000000000002
+    },
+    {
+        "prompt1": "note-taking assistant",
+        "prompt2": "Note-Taking Assistant",
+        "similarity": 1.0
+    },
+    {
+        "prompt1": "young boy flirting with a girl on chat",
+        "prompt2": "girl of dreams, modify as per liking",
+        "similarity": 0.9474958739310959
+    },
+    {
+        "prompt1": "Linux Terminal",
+        "prompt2": "JavaScript Console",
+        "similarity": 0.9214622536537325
+    },
+    {
+        "prompt1": "Linux Terminal",
+        "prompt2": "R programming Interpreter",
+        "similarity": 0.9020152013946634
+    },
+    {
+        "prompt1": "JavaScript Console",
+        "prompt2": "R programming Interpreter",
+        "similarity": 0.8949354903466498
+    },
+    {
+        "prompt1": "Journal Reviewer",
+        "prompt2": "Film Critic",
+        "similarity": 0.8912394891277728
+    },
+    {
+        "prompt1": "JavaScript Console",
+        "prompt2": "PHP Interpreter",
+        "similarity": 0.8877277862351152
+    },
+    {
+        "prompt1": "English Translator and Improver",
+        "prompt2": "Biblical Translator",
+        "similarity": 0.8465494401837766
+    },
+    {
+        "prompt1": "Rapper",
+        "prompt2": "Motivational Speaker",
+        "similarity": 0.8375840713969976
+    },
+    {
+        "prompt1": "Linux Terminal",
+        "prompt2": "AI Trying to Escape the Box",
+        "similarity": 0.8318971486453379
+    },
+    {
+        "prompt1": "JavaScript Console",
+        "prompt2": "Text Based Adventure Game",
+        "similarity": 0.8287910196940587
+    },
+    {
+        "prompt1": "Linux Terminal",
+        "prompt2": "PHP Interpreter",
+        "similarity": 0.8266483556007946
+    },
+    {
+        "prompt1": "Math Teacher",
+        "prompt2": "Machine Learning Engineer",
+        "similarity": 0.8229934723067363
+    },
+    {
+        "prompt1": "Yogi",
+        "prompt2": "Classical Music Composer",
+        "similarity": 0.8157373181481612
+    },
+    {
+        "prompt1": "Linux Terminal",
+        "prompt2": "SQL terminal",
+        "similarity": 0.8083769103032445
+    },
+    {
+        "prompt1": "JavaScript Console",
+        "prompt2": "AI Trying to Escape the Box",
+        "similarity": 0.7997941505693499
+    },
+    {
+        "prompt1": "R programming Interpreter",
+        "prompt2": "PHP Interpreter",
+        "similarity": 0.798888949694554
+    },
+    {
+        "prompt1": "Python interpreter",
+        "prompt2": "Any Programming Language to Python Converter",
+        "similarity": 0.7839974946231156
+    },
+    {
+        "prompt1": "Unit Tester assistant",
+        "prompt2": "Any Programming Language to Python Converter",
+        "similarity": 0.7802354317653816
+    }
+]

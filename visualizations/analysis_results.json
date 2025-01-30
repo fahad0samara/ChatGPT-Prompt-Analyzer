@@ -1,0 +1,54 @@
+{
+    "total_prompts": 209,
+    "avg_word_count": 82.05263157894737,
+    "avg_sentiment": 0.15474886023894177,
+    "avg_complexity": 17.77407925673476,
+    "role_categories": {
+        "other": 150,
+        "educational": 16,
+        "technical": 15,
+        "creative": 11,
+        "professional": 11,
+        "healthcare": 6
+    },
+    "interaction_types": {
+        "other": 79,
+        "creation": 53,
+        "guidance": 51,
+        "teaching": 20,
+        "analysis": 6
+    },
+    "sentiment_by_role": {
+        "creative": 0.222345291760581,
+        "educational": 0.13367097312409812,
+        "healthcare": 0.09096732632446915,
+        "other": 0.15230709184994898,
+        "professional": 0.1788470135528959,
+        "technical": 0.15991954173772352
+    },
+    "complexity_by_role": {
+        "creative": 22.272727272727273,
+        "educational": 16.88705357142857,
+        "healthcare": 20.066666666666666,
+        "other": 17.11773826173826,
+        "professional": 21.01919191919192,
+        "technical": 18.68785714285714
+    },
+    "correlation_matrix": {
+        "prompt_word_count": {
+            "prompt_word_count": 1.0,
+            "prompt_sentiment": -0.109,
+            "prompt_complexity": -0.028
+        },
+        "prompt_sentiment": {
+            "prompt_word_count": -0.109,
+            "prompt_sentiment": 1.0,
+            "prompt_complexity": 0.19
+        },
+        "prompt_complexity": {
+            "prompt_word_count": -0.028,
+            "prompt_sentiment": 0.19,
+            "prompt_complexity": 1.0
+        }
+    }
+}

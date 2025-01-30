@@ -1,0 +1,71 @@
+{
+    "cluster_sizes": {
+        "1": 84,
+        "0": 57,
+        "4": 33,
+        "2": 25,
+        "3": 10
+    },
+    "top_terms_per_cluster": {
+        "Cluster 0": [
+            "help",
+            "need",
+            "request",
+            "suggestion",
+            "want",
+            "act",
+            "create",
+            "come",
+            "order",
+            "techniques"
+        ],
+        "Cluster 1": [
+            "provide",
+            "want",
+            "act",
+            "make",
+            "include",
+            "step",
+            "prompt",
+            "request",
+            "use",
+            "advice"
+        ],
+        "Cluster 2": [
+            "like",
+            "sentences",
+            "sentence",
+            "write",
+            "words",
+            "want",
+            "just",
+            "suggest",
+            "explanations",
+            "language"
+        ],
+        "Cluster 3": [
+            "code",
+            "language",
+            "provide",
+            "want",
+            "input",
+            "write",
+            "act",
+            "table",
+            "software",
+            "data"
+        ],
+        "Cluster 4": [
+            "reply",
+            "write",
+            "question",
+            "type",
+            "tell",
+            "want",
+            "explanations",
+            "answer",
+            "commands",
+            "inside"
+        ]
+    }
+}

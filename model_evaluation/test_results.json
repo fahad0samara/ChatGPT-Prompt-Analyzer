@@ -1,0 +1,301 @@
+{
+    "individual_results": [
+        {
+            "category": "teaching",
+            "example": "Act as a math teacher and explain calculus concepts step by step",
+            "prediction": "teaching",
+            "confidence": 0.51,
+            "correct": true
+        },
+        {
+            "category": "teaching",
+            "example": "Be my programming mentor and help me understand object-oriented programming",
+            "prediction": "guidance",
+            "confidence": 0.58,
+            "correct": false
+        },
+        {
+            "category": "teaching",
+            "example": "Teach me the basics of machine learning algorithms with practical examples",
+            "prediction": "teaching",
+            "confidence": 0.41,
+            "correct": true
+        },
+        {
+            "category": "teaching",
+            "example": "I need you to explain quantum physics in simple terms for beginners",
+            "prediction": "teaching",
+            "confidence": 0.31,
+            "correct": true
+        },
+        {
+            "category": "teaching",
+            "example": "Guide me through the process of learning Spanish grammar systematically",
+            "prediction": "guidance",
+            "confidence": 0.69,
+            "correct": false
+        },
+        {
+            "category": "teaching",
+            "example": "Act as a professional instructor and help me master advanced Python concepts",
+            "prediction": "teaching",
+            "confidence": 0.4,
+            "correct": true
+        },
+        {
+            "category": "teaching",
+            "example": "Can you be my tutor and explain the fundamentals of web development?",
+            "prediction": "creation",
+            "confidence": 0.42,
+            "correct": false
+        },
+        {
+            "category": "teaching",
+            "example": "Demonstrate how to solve differential equations with detailed explanations",
+            "prediction": "guidance",
+            "confidence": 0.46,
+            "correct": false
+        },
+        {
+            "category": "teaching",
+            "example": "I want to learn about artificial intelligence, explain it from scratch",
+            "prediction": "teaching",
+            "confidence": 0.55,
+            "correct": true
+        },
+        {
+            "category": "teaching",
+            "example": "Provide a comprehensive tutorial on database design principles",
+            "prediction": "creation",
+            "confidence": 0.39,
+            "correct": false
+        },
+        {
+            "category": "guidance",
+            "example": "Help me debug this Python code that has a recursion error",
+            "prediction": "guidance",
+            "confidence": 0.51,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Assist me in writing a professional email to my supervisor",
+            "prediction": "guidance",
+            "confidence": 0.49,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Guide me through the process of setting up a PostgreSQL database",
+            "prediction": "guidance",
+            "confidence": 0.55,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Can you help me improve my resume for a tech position?",
+            "prediction": "guidance",
+            "confidence": 0.42,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "I need assistance with structuring my research paper",
+            "prediction": "guidance",
+            "confidence": 0.51,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Review my code and suggest optimization improvements",
+            "prediction": "guidance",
+            "confidence": 0.58,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Help me choose the best framework for my web application",
+            "prediction": "guidance",
+            "confidence": 0.56,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Guide me in implementing proper error handling in my API",
+            "prediction": "creation",
+            "confidence": 0.6,
+            "correct": false
+        },
+        {
+            "category": "guidance",
+            "example": "Assist me with troubleshooting my Docker container issues",
+            "prediction": "guidance",
+            "confidence": 0.69,
+            "correct": true
+        },
+        {
+            "category": "guidance",
+            "example": "Can you help me understand why my program is crashing?",
+            "prediction": "guidance",
+            "confidence": 0.6,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Write a Python script to analyze stock market data using pandas",
+            "prediction": "creation",
+            "confidence": 0.69,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Create a beautiful responsive HTML template for my portfolio website",
+            "prediction": "creation",
+            "confidence": 0.7,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Generate a creative story about space exploration in the year 3000",
+            "prediction": "creation",
+            "confidence": 0.63,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Design a comprehensive database schema for an e-commerce platform",
+            "prediction": "creation",
+            "confidence": 0.68,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Make a detailed project plan for developing a mobile app",
+            "prediction": "creation",
+            "confidence": 0.72,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Build an API endpoint for user authentication using Flask",
+            "prediction": "creation",
+            "confidence": 0.59,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Create a machine learning model for sentiment analysis",
+            "prediction": "creation",
+            "confidence": 0.53,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Generate unit tests for my JavaScript application",
+            "prediction": "creation",
+            "confidence": 0.58,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Develop a RESTful API for a blog platform",
+            "prediction": "creation",
+            "confidence": 0.7,
+            "correct": true
+        },
+        {
+            "category": "creation",
+            "example": "Write a script to automate file processing tasks",
+            "prediction": "creation",
+            "confidence": 0.76,
+            "correct": true
+        },
+        {
+            "category": "analysis",
+            "example": "Analyze this dataset and provide insights about customer behavior",
+            "prediction": "analysis",
+            "confidence": 0.31,
+            "correct": true
+        },
+        {
+            "category": "analysis",
+            "example": "Review my code architecture and suggest improvements for scalability",
+            "prediction": "guidance",
+            "confidence": 0.56,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Evaluate the performance of this sorting algorithm implementation",
+            "prediction": "creation",
+            "confidence": 0.51,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Examine this business proposal and give detailed feedback",
+            "prediction": "other",
+            "confidence": 0.31,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Assess the security vulnerabilities in this system design",
+            "prediction": "creation",
+            "confidence": 0.5,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Analyze the time complexity of this recursive algorithm",
+            "prediction": "guidance",
+            "confidence": 0.29,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Review this SQL query and suggest optimization techniques",
+            "prediction": "guidance",
+            "confidence": 0.66,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Evaluate the pros and cons of different cloud providers",
+            "prediction": "guidance",
+            "confidence": 0.26,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Investigate the root cause of these system performance issues",
+            "prediction": "guidance",
+            "confidence": 0.28,
+            "correct": false
+        },
+        {
+            "category": "analysis",
+            "example": "Analyze the efficiency of this caching implementation",
+            "prediction": "creation",
+            "confidence": 0.52,
+            "correct": false
+        }
+    ],
+    "accuracy_by_category": {
+        "teaching": 0.5,
+        "guidance": 0.9,
+        "creation": 1.0,
+        "analysis": 0.1
+    },
+    "average_accuracy": 0.625,
+    "confidence_analysis": {
+        "correct_predictions": {
+            "count": 25,
+            "avg_confidence": 0.5592
+        },
+        "incorrect_predictions": {
+            "count": 15,
+            "avg_confidence": 0.4686666666666666
+        }
+    }
+}
